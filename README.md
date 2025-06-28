@@ -2,10 +2,6 @@
 [isThatu_Privacy_Policy.pdf](https://github.com/user-attachments/files/20959836/isThatu_Privacy_Policy.pdf)
 
 
-
-
-
-Privacy Policy
 This privacy policy applies to the isThatu mobile app, developed by Varun Chaudhary ("Service Provider"),
 and made available as a free service. By using this application, you agree to the terms outlined below.
 Information Collection and Use
