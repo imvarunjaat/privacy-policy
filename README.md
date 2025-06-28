@@ -1,4 +1,4 @@
-# privacy-policy
+# privacy-policy for isThatu
 [isThatu_Privacy_Policy.pdf](https://github.com/user-attachments/files/20959836/isThatu_Privacy_Policy.pdf)
 
 
